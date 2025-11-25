@@ -1,0 +1,5 @@
+{
+  "name": "Golden Ratio Sphere",
+  "description": "A 3D interactive visualizer of the Fibonacci Sphere algorithm, demonstrating the Golden Ratio's role in distributing points evenly on a sphere. Includes AI-powered insights.",
+  "requestFramePermissions": []
+}
